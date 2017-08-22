@@ -1,0 +1,10 @@
+name: Social Share Counter
+# core: 8.x
+description: This module enables a extensible free Share Button ecosystem for the best possible social sharing optimization of your website.
+package: Sharing
+type: module
+# Information added by Drupal.org packaging script on 2016-06-30
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'social_share_counter'
+datestamp: 1467281895

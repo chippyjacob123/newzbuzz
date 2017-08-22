@@ -1,0 +1,8 @@
+name: Likes Block
+description: A simple module to like & dislike
+core: 8.x
+package: Custom
+dependencies:
+- node
+- block
+type: module

@@ -1,0 +1,39 @@
+/**
+ * Place your custom styles here.
+ *Template Name: Subtheme
+ *Author: Chippy
+ */
+
+.border-news {border-style: solid;}
+
+*{margin:0; padding:0}
+body{font-family:Arial; font-size:12px; line-height:13px; background-color:#fff}
+a{color:#000; text-decoration:none}ss
+a:hover, a:active, a:focus{text-decoration:none; color:#000}
+input[type=text], input[type=password], textarea{border:1px solid #ddd; padding:5px}
+input[type=submit]
+h1, h2, h4, h5, h6{font-weight:normal; margin:0 0 15px}
+h3{color:#202021; font-size:12px; font-weight:bold; margin-bottom:2px; line-height:13px}
+h2{font-size:25px; line-height:30px}
+img{max-width:100%; height:auto}
+.alignleft{float:left; margin-left:0px}
+.aligncenter{display:block; margin:10px auto}
+.alignright{float:right; margin-left:10px}
+.floatleft{float:left}
+.floatright{float:right}
+.center{width:980px; display:block; margin:0 auto; padding:20px; background:#fff; transition:all 1.3s ease 0s; -moz-transition:all 1.3s ease 0s; -webkit-transition:all 1.3s ease 0s; -o-transition:all 1.3s ease 0s; -ms-transition:all 1.3s ease 0s}
+.region-navigation-collapsible{margin-top:120px}
+#block-subtheme-main-menu{margint-top:50px;soverflow:visible; background:#0D0E0F; min-height:50px}
+#block-subtheme-main-menu ul{margin:0; padding:0; list-style:none}
+#block-subtheme-main-menu li{float:left; position:relative}
+#block-subtheme-main-menu ul li a{color:#FFF;  font-family:'bebasregular'; font-size:15px; padding:18px 18.7px}
+#block-subtheme-main-menu ul li a:hover{background:#CF0000;}
+.navbar-default { background-color: #fff;border-color: #e7e7e7;}
+.navbar-default .navbar-brand {
+    color: #CF0000;
+    font-size: -webkit-xxx-large;
+    padding: 50px;
+
+}
+.header_slogan{background-color:#efe;}
+.header_slogan a{ color: #CF0000;font-size: -webkit-xxx-large;}
